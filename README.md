@@ -37,7 +37,8 @@ OpenStreetMap via Overpass (shops, schools, clinics, offices, transit, residenti
 ## Workflow decisions
 - Pipeline: scouted → shortlisted → study requested → under review → approved / rejected; manager-only moves, mandatory reason, full history.
 
-
+## Video recording
+https://drive.google.com/file/d/1uc9rhRyC1MkVTP0fkchYDqiGy4ZUkovZ/view?usp=sharing
 
 
 
